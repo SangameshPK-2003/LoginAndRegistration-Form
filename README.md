@@ -1,6 +1,5 @@
 # LoginAndRegistration-Form
 The Login and Registration Form project aims to create a user authentication system where users can log in using their credentials or register for a new account. The project utilizes HTML for structuring the form, CSS for styling and layout, and JavaScript for form validation and submission.
-
 # Key Features:
 1) User Registration: Users can create a new account by providing their desired username, email address, and password.
 2) Form Validation: The form validates user inputs to ensure that the required fields are filled correctly.
